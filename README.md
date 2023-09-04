@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola, soy Luis👋
+### 🌱 Actualmente programando en Kotlin, y continuamente aprendiendo cada dia más.
 <!--
 **LuisSotolongo/LuisSotolongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
